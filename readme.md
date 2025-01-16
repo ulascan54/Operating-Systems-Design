@@ -57,7 +57,7 @@ Modify the Linux scheduler to implement fair-share scheduling and compare its pe
 
 ---
 
-**Prepared for:** CSE331 Operating Systems Design, Yeditepe University, Fall 2024.
-**Phase 1, Assigment 1, Assigment 2 Prepared by:** Ulaş Can Demirbağ
+**Prepared for:** CSE331 Operating Systems Design, Yeditepe University, Fall 2024. <br>
+**Phase 1, Assigment 1, Assigment 2 Prepared by:** Ulaş Can Demirbağ <br>
 **Phase 2 Prepared by:** Ulaş Can Demirbağ, [Mevlüt Akif Şahin](https://github.com/AkifSahn), [Emirhan Tala](https://github.com/Emivvvvv)
 
