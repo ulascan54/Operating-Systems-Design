@@ -1,0 +1,6 @@
+Input File: qr_code_64x64_grayscale.dat, Time: 0.002190 seconds, Memory: 0 bytes
+Input File: qr_code_128x128_grayscale.dat, Time: 0.004989 seconds, Memory: 0 bytes
+Input File: qr_code_512x512_grayscale.dat, Time: 0.032480 seconds, Memory: 0 bytes
+Input File: qr_code_64x64_grayscale.dat, Time: 0.002003 seconds, Memory: 0 bytes
+Input File: qr_code_128x128_grayscale.dat, Time: 0.004875 seconds, Memory: 0 bytes
+Input File: qr_code_512x512_grayscale.dat, Time: 0.031786 seconds, Memory: 0 bytes
